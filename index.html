@@ -7,11 +7,14 @@
         <meta name="author:" content="Introulio">
         <meta name="keywords:" content="iot, tecnologia, control,remoto, internet de las cosas">
         <style>
-            header{
-                background: greenyellow
+
+            
+            .green{
+              background: green
             }
-            footer{
-              background: orange
+            .gray{
+              background: gray
+
             }
 
         </style>
@@ -19,11 +22,11 @@
     </head>
     <body>
 
-      <header>
+      <header class="green">
         <h1>GREENBER</h1>
       </header>
 
-      <nav>
+      <nav class="green">
         <ul>
             <li>Sosfware</li>
             <li>Harware</li>
@@ -36,7 +39,7 @@
 
       <section> <!-- Esta es la seccion de toda la pagina es donde entra todo el contenido-->
 
-          <article> <!--articulos que se pueden repetir  -->
+          <article class="gray"> <!--articulos que se pueden repetir  -->
               <hgroup>
                   <h1>Titulo para el primer articulo </h1>
                   <h2>Subtitulo del primer articulos </h2>
@@ -52,9 +55,9 @@
               Visita a PIRRI
             </a>
 
-          </article>
+          </article >
 
-          <article>
+          <article id="articulo2">
               <hgroup>
                   <h1>Titulo para el segundo articulo </h1>
                   <h2>Subtitulo del segundo articulos </h2>
@@ -79,7 +82,7 @@
 
       </aside>
 
-      <footer>
+      <footer id="footer1">
           Derechos Reserevdos 2021
       </footer>
 
