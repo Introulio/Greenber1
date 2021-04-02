@@ -1,0 +1,40 @@
+h1{
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font: bold 14xp sans-serif;
+}
+
+
+
+header{
+  border: 1px solid black;
+  text-align: center;
+  background: green;
+  color: black;
+  font-family: sans-serif;
+
+}
+footer{
+  background: orange;
+  font-family: sans-serif;
+
+}
+header,section, footer, aside, nav, article{
+    display: block;
+}
+
+body{
+
+
+}
+.agrupar{
+  background: black;
+  color: gray;
+  width: 960px;
+  margin:20px auto;
+  padding: 40px
+}
