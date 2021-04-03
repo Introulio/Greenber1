@@ -28,9 +28,10 @@ header,section, footer, aside, nav, article{
 body{
 }
 article{
-  margin-bottom: 20px;
-  background: gray;
-  border: 1px solid black;
+    background: gray;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 article footer{
@@ -75,9 +76,7 @@ article footer{
   color:black;
   clear: both;
   padding:20px;
-  background: #a4b0be
-
-
+  background: #a4b0be;
 }
 
 img{
