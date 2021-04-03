@@ -60,14 +60,14 @@ article footer{
   /*background: #868686;   /*#636e72 ;/*#485460;   /*#05c46b;  /*green;  /*#f6b010;*/
 }
 .menu li{
-  color: #868686 /* black;  */
+  color: #868686; /* black;  */
   list-style: none;
   font: bold 20px verdana;
   display: inline-block;
   padding: 5px
 }
 .menu a{
-    color: #FAFCFC;
+    color:  #FAFCFC;
   }
 .seccion{
     margin: 20px;
@@ -75,7 +75,7 @@ article footer{
     float: left;
   }
 .columna{
-  color: #FAFCFC;
+  color:#FA6F05;    /*#FAFCFC;   */
   width: 300px;
 
   float: left;
