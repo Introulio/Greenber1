@@ -51,14 +51,15 @@ article footer{
 
 }
 .menu{
+  text-align: left;
   background: #f6b010;
 }
 .menu li{
   color: black;
   list-style: none;
-  padding: 2px;
-  font: bold 14px verdana;
+  font: bold 20px verdana;
   display: inline-block;
+    padding: 5px
 }
 .seccion{
     margin: 20px;
