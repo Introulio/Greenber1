@@ -13,7 +13,7 @@ time{
 }
 
 header{
-  border: 1px solid black;
+/*  border: 1px solid black;*/
   color: green;
 }
 footer{
@@ -26,12 +26,14 @@ header,section, footer, aside, nav, article{
 }
 
 body{
+  background-image: url("images/fondomar.jpg");
+
 }
 article{
     background: gray;
     border: 1px solid black;
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 article footer{
@@ -40,12 +42,14 @@ article footer{
 }
 
 .agrupar{
+  background-image: url("images/fondopro1.png");
+
   text-align: center;
-  /*background: black;*/
+    /*background: #575fcf;     */
   color: #cfcfdf;
   width: 960px;
   margin:20px auto;
-  padding: 40px
+  padding: 20px
 }
 .cabecera h1{
 
@@ -69,9 +73,15 @@ article footer{
 .columna{
   color: black;
   width: 300px;
-  border: 1px solid white;
+
   float: left;
-  margin: 20px 0;
+}
+.columna blockquote{
+  border: 1px solid black;
+  padding: 40px;
+  background: #f6b010;
+  margin-bottom:: 20px;
+
 }
 .pie{
   color:black;
@@ -80,7 +90,7 @@ article footer{
   background: #a4b0be;
 }
 
-img{
+.articulos img{
   width: 100px;
   display: block;
   margin: 20px auto;
