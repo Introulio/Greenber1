@@ -11,11 +11,7 @@ h2{
 
 
 cabecera{
-  border: 1px solid black;
-  text-align: center;
-  background: green;
-  color: black;
-  font-family: sans-serif;
+
 
 }
 footer{
@@ -39,7 +35,11 @@ body{
   padding: 40px
 }
 .cabecera{
-
+  border: 1px solid black;
+  text-align: center;
+  background: green;
+  color: black;
+  font-family: sans-serif;
 
 }
 .menu{
@@ -53,5 +53,5 @@ body{
   display: inline-block;
 }
 .seccion{
-  
+
 }
