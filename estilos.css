@@ -5,46 +5,40 @@ h1{
   font-family: sans-serif;
   font-weight: bold;
   color: green;
-
-
-}
+  }
 
 h2{
   font: bold 14xp sans-serif;
-}
+  }
 
 time{
   color: #999;
-}
+  }
 
 header{
-/*  border: 1px solid black;*/
-
-}
+  /*  border: 1px solid black;*/
+  }
 footer{
-/*  background: #EE5A24;  naranja*/
+  /*  background: #EE5A24;  naranja*/
   font-family: sans-serif;
-
-}
+  }
 header,section, footer, aside, nav, article{
     display: block;
-}
+  }
 
 body{
   background-image: url("images/fondomar.jpg");
-
-}
+  }
 article{
     background: gray;
      /*  border: 1px solid black;   */
     padding: 20px;
     margin-bottom: 25px;
-}
+  }
 
 article footer{
     text-align: right;
-
-}
+    }
 
 .agrupar{
   background-image: url("images/fondopro1.png");
