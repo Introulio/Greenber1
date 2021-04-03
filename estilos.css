@@ -33,8 +33,22 @@ body{
 }
 .agrupar{
   background: black;
-  color: gray;
+  color: #cfcfdc;
   width: 960px;
   margin:20px auto;
   padding: 40px
+}
+.header{
+
+
+}
+.menu{
+  background: #f6b010;
+}
+.menu li{
+  color: black;
+  list-style: none;
+  padding: 2px;
+  font: bold 14px verdana;
+  display: inline-block;
 }
