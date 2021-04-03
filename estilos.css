@@ -1,7 +1,11 @@
 h1{
+
   font-size: 50px;
   font-family: sans-serif;
   font-weight: bold;
+  color: green;
+
+
 }
 
 h2{
@@ -14,7 +18,7 @@ time{
 
 header{
 /*  border: 1px solid black;*/
-  color: green;
+
 }
 footer{
 /*  background: #EE5A24;  naranja*/
@@ -56,7 +60,7 @@ article footer{
 }
 .menu{
   text-align: left;
-  background: #f6b010;
+  background: #868686;   /*#636e72 ;/*#485460;   /*#05c46b;  /*green;  /*#f6b010;*/
 }
 .menu li{
   color: black;
@@ -71,7 +75,7 @@ article footer{
     float: left;
   }
 .columna{
-  color: black;
+  color: #868686;
   width: 300px;
 
   float: left;
@@ -79,7 +83,7 @@ article footer{
 .columna blockquote{
   border: 1px solid black;
   padding: 40px;
-  background: #f6b010;
+  background: #323334;   /*#f6b010;*/
   margin-bottom:: 20px;
 
 }
