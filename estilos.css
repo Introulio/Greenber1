@@ -60,10 +60,10 @@ article footer{
 }
 .menu{
   text-align: left;
-  background: #868686;   /*#636e72 ;/*#485460;   /*#05c46b;  /*green;  /*#f6b010;*/
+  /*background: #868686;   /*#636e72 ;/*#485460;   /*#05c46b;  /*green;  /*#f6b010;*/
 }
 .menu li{
-  color: black;
+  color: #868686 /* black;  */
   list-style: none;
   font: bold 20px verdana;
   display: inline-block;
