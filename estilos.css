@@ -1,5 +1,5 @@
 h1{
-  font-size: 30px;
+  font-size: 50px;
   font-family: sans-serif;
   font-weight: bold;
 }
@@ -13,9 +13,7 @@ h2{
 header{
   border: 1px solid black;
   text-align: center;
-  background: green;
-  color: black;
-  font-family: sans-serif;
+  color: green;
 }
 footer{
   background: orange;
@@ -37,7 +35,7 @@ body{
   margin:20px auto;
   padding: 40px
 }
-.cabecera{
+.cabecera h1{
 
 }
 .menu{
