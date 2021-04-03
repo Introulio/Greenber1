@@ -10,7 +10,7 @@ h2{
 
 
 
-header{
+cabecera{
   border: 1px solid black;
   text-align: center;
   background: green;
@@ -38,7 +38,7 @@ body{
   margin:20px auto;
   padding: 40px
 }
-.header{
+.cabecera{
 
 
 }
@@ -51,4 +51,7 @@ body{
   padding: 2px;
   font: bold 14px verdana;
   display: inline-block;
+}
+.seccion{
+  
 }
