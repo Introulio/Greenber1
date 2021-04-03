@@ -8,15 +8,16 @@ h2{
   font: bold 14xp sans-serif;
 }
 
-
+time{
+  color: #999;
+}
 
 header{
   border: 1px solid black;
-  text-align: center;
   color: green;
 }
 footer{
-  background: orange;
+/*  background: #EE5A24;  naranja*/
   font-family: sans-serif;
 
 }
@@ -25,12 +26,22 @@ header,section, footer, aside, nav, article{
 }
 
 body{
+}
+article{
+  margin-bottom: 20px;
+  background: gray;
+  border: 1px solid black;
+}
 
+article footer{
+    text-align: right;
 
 }
+
 .agrupar{
-  background: black;
-  color: #cfcfdc;
+  text-align: center;
+  /*background: black;*/
+  color: #cfcfdf;
   width: 960px;
   margin:20px auto;
   padding: 40px
@@ -49,5 +60,28 @@ body{
   display: inline-block;
 }
 .seccion{
+    margin: 20px;
+    width: 600px;
+    float: left;
+  }
+.columna{
+  color: black;
+  width: 300px;
+  border: 1px solid white;
+  float: left;
+  margin: 20px 0;
+}
+.pie{
+  color:black;
+  clear: both;
+  padding:20px;
+  background: #a4b0be
 
+
+}
+
+img{
+  width: 100px;
+  display: block;
+  margin: 20px auto;
 }
