@@ -90,6 +90,7 @@ article footer{
 }
 .pie{
   color:black;
+  opacity: .9;
   clear: both;
   padding:20px;
   background: #a4b0be;
