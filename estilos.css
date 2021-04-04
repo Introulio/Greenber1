@@ -35,6 +35,8 @@ article{
     color:#FAFCFC; ;/*  border: 1px solid black;   */
     padding: 20px;
     margin-bottom: 25px;
+    box-shadow: 4px 4px 10px #212020;
+
   }
 
 article footer{
@@ -56,6 +58,7 @@ article footer{
 }
 .menu{
   text-align: left;
+  box-shadow: 2px 2px 5px #000;
   background-color: rgba(67,69,70,.6);
   /*background: #868686;   /*#636e72 ;/*#485460;   /*#05c46b;  /*green;  /*#f6b010;*/
 }
@@ -75,25 +78,25 @@ article footer{
     float: left;
   }
 .columna{
-  color:#FA6F05;    /*#FAFCFC;   */
-  width: 300px;
-
-  float: left;
-}
+    color:#FA6F05;    /*#FAFCFC;   */
+    width: 300px;
+    float: left;
+  }
 .columna blockquote{
   /*border: 1px solid black;   */
   opacity: .8;
   padding: 40px;
   background: #323334;   /*#f6b010;*/
-  margin-bottom:: 20px;
-
+  margin-bottom: 20px;
+  box-shadow: 4px 4px 5px #000;
 }
 .pie{
   color:black;
   opacity: .9;
   clear: both;
   padding:20px;
-  background: #a4b0be;
+  background: #2d3d50;
+  box-shadow: 2px 2px 5px #000;
 }
 .articulos a{
   color: #FAFCFC;
