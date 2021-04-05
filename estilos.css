@@ -30,7 +30,6 @@ body{
   background-image: url("images/fondomar.jpg");
 }
 article{
-  opacity: .8;
   background: gray;
   color:#FAFCFC; ;/*  border: 1px solid black;   */
   padding: 20px;
@@ -100,12 +99,34 @@ article footer{
   box-shadow: 2px 2px 5px #000;
   border-radius: 5px;
 }
-.articulos a{
-  color: #FAFCFC;
+.articulo1 {
+  opacity: .8;
+
+  background: gray;
+  color:#FAFCFC; ;/*  border: 1px solid black;   */
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 4px 4px 15px #212020;
+  border-radius: 5px;
 }
 
-.articulos img{
+.articulo1 img{
   width: 100px;
   display: block;
   margin: 20px auto;
+}
+.articulo2{
+  background: gray;
+  color:#FAFCFC; ;/*  border: 1px solid black;   */
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 4px 4px 15px #212020;
+  border-radius: 5px;
+}
+div iframe{
+  background: gray;
+  border: 1px solid black;
+  box-shadow: 4px 4px 20px #212020;
+  border-radius: 5px;
+
 }
